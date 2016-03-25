@@ -1,6 +1,6 @@
 {
   "name": "zepto-lite",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "homepage": "http://zeptojs.com",
   "scripts": {
     "test": "coffee make test",
